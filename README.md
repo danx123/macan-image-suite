@@ -36,6 +36,11 @@ A lightweight, lightning-fast previewer for instant file checking.
 * **Minimalist:** Extremely lightweight and resource-friendly.
 
 ---
+## 📝 Changelog v2.1.0
+1. Macan Image Viewer v5.5.5 - 5.5.6
+- Added new function to Macan Quick View, namely the format register function (association file) .jpg, .jpeg, .bmp, .png, .webp
+---
+
 
 ## 🚀 Getting Started
 
