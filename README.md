@@ -36,9 +36,13 @@ A lightweight, lightning-fast previewer for instant file checking.
 * **Minimalist:** Extremely lightweight and resource-friendly.
 
 ---
-## 📝 Changelog v2.1.0
-1. Macan Image Viewer v5.5.5 - 5.5.6
-- Added new function to Macan Quick View, namely the format register function (association file) .jpg, .jpeg, .bmp, .png, .webp
+## 📝 Changelog v2.2.0
+1. Macan Gallery Pro v3.2.2 - 3.7.0
+- Added a full-screen function when clicking on the slideshow (full screen without a toolbar/status bar, only displaying the image)
+- Added a new button to the toolbar: the fit-to-screen button
+- Added a new button to the status bar (full screen)
+- Added a new button to the status bar (reset zoom)
+- Added a keyboard shortcut fit-to-screen (F)
 ---
 
 
