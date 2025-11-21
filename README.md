@@ -36,10 +36,11 @@ A lightweight, lightning-fast previewer for instant file checking.
 * **Minimalist:** Extremely lightweight and resource-friendly.
 
 ---
-## 📝 Changelog v2.4.0
-1. Macan Gallery Pro v3.7.0 - 3.7.2
-- Fixed Manage Folder QSS StyleSheet
-- Fix Fit to Screen SVG Icon
+## 📝 Changelog v2.8.0 - Update Framework
+- Macan Image Viewer v6.0.0 - 6.2.0
+- Macan Quick View v6.0.0 - 6.2.0
+- Macan Gallery Pro v3.7.2 - 3.7.5
+- Macan Image Finder v2.0.0 - 2.2.0
 ---
 
 
