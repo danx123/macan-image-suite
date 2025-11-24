@@ -36,11 +36,13 @@ A lightweight, lightning-fast previewer for instant file checking.
 * **Minimalist:** Extremely lightweight and resource-friendly.
 
 ---
-## 📝 Changelog v2.8.0 - Update Framework
-- Macan Image Viewer v6.0.0 - 6.2.0
-- Macan Quick View v6.0.0 - 6.2.0
-- Macan Gallery Pro v3.7.2 - 3.7.5
-- Macan Image Finder v2.0.0 - 2.2.0
+## 📝 Changelog v3.0.0
+1. Macan Image Viewer v6.2.0 - 6.2.2
+   - Fixed Macan Quick View svg xml overlay (prev, next)
+   - Fixed Macan Quick View, Path (Open in Full Mode)
+2. Macan Galley Pro v3.7.5 - 3.7.7
+   - Changed Back Button
+
 ---
 
 
