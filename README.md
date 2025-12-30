@@ -36,12 +36,19 @@ A lightweight, lightning-fast previewer for instant file checking.
 * **Minimalist:** Extremely lightweight and resource-friendly.
 
 ---
-## 📝 Changelog v3.2.0
-1. Macan Image Viewer v6.2.2 - 6.3.0
-   - Added Check Update
-2. Macan Galley Pro v3.7.7 - 3.8.0
-   - Added Check Update
+## 📝 Changelog v3.6.0
+1. Macan Gallery Pro v4.5.0
+- Added Crop
+- Added Undo/Redo
+- Added Effect Manager  
+- Added Quick Effect:
+  Grayscale, Sepia, Invert, Sharpen, Auto Enhance
 
+2. Macan Image Finder v2.3.0
+- Update library
+
+3. Macan Image Viewer v6.3.1
+- Update Library
 ---
 
 
