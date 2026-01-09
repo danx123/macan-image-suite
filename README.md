@@ -36,18 +36,11 @@ A lightweight, lightning-fast previewer for instant file checking.
 * **Minimalist:** Extremely lightweight and resource-friendly.
 
 ---
-## 📝 Changelog v3.6.0
-1. Macan Gallery Pro v4.5.0
-- Added Crop
-- Added Undo/Redo
-- Added Effect Manager  
-- Added Quick Effect:
-  Grayscale, Sepia, Invert, Sharpen, Auto Enhance
+## 📝 Changelog v3.8.0
+1. Macan Gallery Pro v4.6.0
+- Fixed crop function
 
-2. Macan Image Finder v2.3.0
-- Update library
-
-3. Macan Image Viewer v6.3.1
+2. Macan Image Viewer v6.3.2
 - Update Library
 ---
 
