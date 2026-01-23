@@ -36,12 +36,11 @@ A lightweight, lightning-fast previewer for instant file checking.
 * **Minimalist:** Extremely lightweight and resource-friendly.
 
 ---
-## 📝 Changelog v3.8.0
-1. Macan Gallery Pro v4.6.0
-- Fixed crop function
+## 📝 Changelog v3.9.0
+1. Macan Gallery Pro v4.7.0
+- Fixed button overlay (next)
 
-2. Macan Image Viewer v6.3.2
-- Update Library
+
 ---
 
 
