@@ -36,12 +36,6 @@ A lightweight, lightning-fast previewer for instant file checking.
 * **Minimalist:** Extremely lightweight and resource-friendly.
 
 ---
-## 📝 Changelog v3.9.0
-1. Macan Gallery Pro v4.7.0
-- Fixed button overlay (next)
-
-
----
 
 
 ## 🚀 Getting Started
