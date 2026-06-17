@@ -1,11 +1,15 @@
 # Macan Image Suite
-<img width="2082" height="2885" alt="macan-image-suite-github" src="https://github.com/user-attachments/assets/c5773715-0d7a-4931-bc42-3c212ede960e" />
-
----
 
 **Macan Image Suite** is a comprehensive, high-performance collection of applications designed to streamline and elevate your digital imaging workflow. Engineered for efficiency and power, this suite provides a complete toolset for viewing, managing, editing, and discovering your visual media.
 
 Whether you are a professional photographer, a designer, or simply looking to organize your personal collection, Macan Image Suite delivers robust, enterprise-grade tools in an intuitive package.
+
+---
+
+<img width="1024" height="1536" alt="macan image suite" src="https://github.com/user-attachments/assets/38b5330a-4a7f-4312-9ae3-a2f701a7df81" />
+
+
+---
 
 ## Suite Components
 
@@ -34,6 +38,9 @@ A lightweight, lightning-fast previewer for instant file checking.
 * **Instant Access:** Immediately preview image files without launching a full application.
 * **System Integration:** Designed to be the fastest solution for quickly sorting and verifying images in your file explorer.
 * **Minimalist:** Extremely lightweight and resource-friendly.
+
+## 5. Metaforge
+MetaForge is a desktop application for injecting accurate, camera-authentic EXIF metadata into JPEG and PNG images & AI Fingerprint Detector. Built with PySide6, it features a curated database of 33 real-world camera presets spanning Sony, Canon, Nikon, Fujifilm, Leica, Hasselblad, Phase One, DJI, and more — covering everything from smartphone sensors to 150MP medium format systems.
 
 ---
 
